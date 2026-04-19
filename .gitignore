@@ -1,0 +1,30 @@
+# Environment Variables
+.env
+
+# MacOS files
+.DS_Store
+
+# Database files
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+
+# Data exports
+data/
+*.csv
+*.json
+
+# Logs
+collection_log.txt
+*.log
+
+# Code Editor files
+.vscode/
+.ipynb_checkpoints/
